@@ -7,7 +7,9 @@
     "start": "next start",
     "lint": "next lint --dir src",
     "lint:fix": "eslint src --ext .ts,.tsx --fix",
-    "format": "prettier --write './src/**/*.{ts,tsx}'"
+    "format": "prettier --write './src/**/*.{ts,tsx}'",
+    "fastly:serve": "next build && cd compute-js && fastly compute serve",
+    "fastly:publish": "next build && cd compute-js && fastly compute publish"
   },
   "dependencies": {
     "next": "12.3.1",
