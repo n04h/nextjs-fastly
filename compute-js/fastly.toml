@@ -6,10 +6,11 @@ description = "NextJs Server"
 language = "javascript"
 manifest_version = 2
 name = "nextjs-template-next-compute-js-app"
-service_id = ""
+service_id = "55Q2vSvuhaLMq6ESm7fy29"
 
 [local_server]
-[local_server.backends]
+
+  [local_server.backends]
 
 [scripts]
   build = "npx check-next-version && npx @fastly/compute-js-static-publish --build-static && $(npm bin)/webpack && $(npm bin)/js-compute-runtime ./bin/index.js ./bin/main.wasm"

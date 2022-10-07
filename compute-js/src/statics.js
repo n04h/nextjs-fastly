@@ -52,8 +52,8 @@ import file31 from "../../.next/server/webpack-api-runtime.js?staticText";
 import * as fileModule31 from "../../.next/server/webpack-api-runtime.js";
 import file32 from "../../.next/server/webpack-runtime.js?staticText";
 import * as fileModule32 from "../../.next/server/webpack-runtime.js";
-import file33 from "../../.next/static/BfVG9zrgsk-ihswGhBw49/_buildManifest.js?staticText";
-import file34 from "../../.next/static/BfVG9zrgsk-ihswGhBw49/_ssgManifest.js?staticText";
+import file33 from "../../.next/static/7LnODEcSz-KKn4mgcywuw/_buildManifest.js?staticText";
+import file34 from "../../.next/static/7LnODEcSz-KKn4mgcywuw/_ssgManifest.js?staticText";
 import file35 from "../../.next/static/chunks/framework-7dc8a65f4a0cda33.js?staticText";
 import file36 from "../../.next/static/chunks/main-a5af4d1b6edd23b1.js?staticText";
 import file37 from "../../.next/static/chunks/pages/_app-e64cee366c168257.js?staticText";
@@ -114,8 +114,8 @@ export const assets = {
   "/.next/server/pages-manifest.json": { contentType: "application/json", content: file30, module: fileModule30, isStatic: false },
   "/.next/server/webpack-api-runtime.js": { contentType: "application/javascript", content: file31, module: fileModule31, isStatic: false },
   "/.next/server/webpack-runtime.js": { contentType: "application/javascript", content: file32, module: fileModule32, isStatic: false },
-  "/.next/static/BfVG9zrgsk-ihswGhBw49/_buildManifest.js": { contentType: "application/javascript", content: file33, module: null, isStatic: false },
-  "/.next/static/BfVG9zrgsk-ihswGhBw49/_ssgManifest.js": { contentType: "application/javascript", content: file34, module: null, isStatic: false },
+  "/.next/static/7LnODEcSz-KKn4mgcywuw/_buildManifest.js": { contentType: "application/javascript", content: file33, module: null, isStatic: false },
+  "/.next/static/7LnODEcSz-KKn4mgcywuw/_ssgManifest.js": { contentType: "application/javascript", content: file34, module: null, isStatic: false },
   "/.next/static/chunks/framework-7dc8a65f4a0cda33.js": { contentType: "application/javascript", content: file35, module: null, isStatic: false },
   "/.next/static/chunks/main-a5af4d1b6edd23b1.js": { contentType: "application/javascript", content: file36, module: null, isStatic: false },
   "/.next/static/chunks/pages/_app-e64cee366c168257.js": { contentType: "application/javascript", content: file37, module: null, isStatic: false },
